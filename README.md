@@ -32,3 +32,7 @@ einstein/
 ## License
 
 MIT
+
+## Known Limitations
+
+Public distribution ([canvas](https://x.com/advaitpaliwal/status/2027219807964364829) and [the academic world](https://www.cnet.com/tech/services-and-software/companion-einstein-ai-tool/) will come after you)
