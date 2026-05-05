@@ -5,7 +5,7 @@ Autonomous academic agent for Canvas LMS. Watches lectures, writes essays, compl
 ## Install
 
 ```bash
-npx skills add harivansh-afk/einstein
+npx skills add https://git.harivan.sh/harivansh-afk/einstein
 ```
 
 ## What it does
